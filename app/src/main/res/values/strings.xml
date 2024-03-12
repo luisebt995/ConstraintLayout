@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ConstraintLayout</string>
+    <string name="nombre">Konan El Barbaro</string>
+    <string name="ocupacion">Guerrero Histórico</string>
+    <string name="ciudad">La aldea de Konan</string>
+    <string name="fuerza">600 / 1000</string>
+    <string name="armas">520 / 1000</string>
+    <string name="strong">Fuerza</string>
+    <string name="victimas">Victimas</string>
+    <string name="num_victimas">4200</string>
+    <string name="armas_t">Armas</string>
+    <string name="titulo">Sobre Konan</string>
+    <string name="cuerpo">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</string>
+    <string name="background">background</string>
 </resources>
